@@ -19,10 +19,11 @@
 - operators
   - nameof
 - coding conventions
+- attribute
 
 ## concept to learn
 - iterator
-- attribute
 - class
   - indexer
   - event
+  - delegation
