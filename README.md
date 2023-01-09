@@ -18,6 +18,7 @@
 - pattern matching
 - operators
   - nameof
+- coding conventions
 
 ## concept to learn
 - iterator
