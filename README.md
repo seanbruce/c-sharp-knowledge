@@ -15,6 +15,7 @@
 - type casting and conversions
 - object and collection initializer
 - LINQ basic
+- pattern matching
 
 ## concept to learn
 - iterator
