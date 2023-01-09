@@ -14,8 +14,8 @@
 - anonymous types
 - type casting and conversions
 - object and collection initializer
+- LINQ basic
 
 ## concept to learn
-- LINQ
 - iterator
 - attribute
