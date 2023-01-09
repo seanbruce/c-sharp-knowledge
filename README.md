@@ -16,6 +16,8 @@
 - object and collection initializer
 - LINQ basic
 - pattern matching
+- operators
+  - nameof
 
 ## concept to learn
 - iterator
