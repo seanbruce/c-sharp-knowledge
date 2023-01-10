@@ -20,6 +20,7 @@
   - nameof
 - coding conventions
 - attribute
+- named and optional arguments
 
 ## concept to learn
 - iterator
@@ -27,3 +28,4 @@
   - indexer
   - event
   - delegation
+  
