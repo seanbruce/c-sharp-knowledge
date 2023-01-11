@@ -29,4 +29,5 @@
   - indexer
   - event
   - delegation
+- lambda
   
