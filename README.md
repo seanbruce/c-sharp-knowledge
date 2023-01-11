@@ -21,6 +21,7 @@
 - coding conventions
 - attribute
 - named and optional arguments
+- extension methods
 
 ## concept to learn
 - iterator
